@@ -12,7 +12,7 @@ import Slide1 from '../../components/Slide1';
 
 const Portfolio = () => {
     return (
-        <div className='mt-5 md:mt-10'>
+        <div className='mt-7 md:mt-14'>
             <Swiper
             spaceBetween={30}
             centeredSlides={true}
