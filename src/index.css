@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.active{
+    background-color: orangered !important;
+}
+
+@layer base {
+    body {
+        @apply bg-bodyColor text-white leading-loose
+    }
+}
+
+.hoverEffect {
+    @apply transition-all cursor-pointer duration-300 ease-in-out;
+}
