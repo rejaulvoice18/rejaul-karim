@@ -10,6 +10,7 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import Slide1 from '../../components/Slide1';
 import Slide2 from '../../components/Slide2';
+import Slide3 from '../../components/Slide3';
 
 
 
@@ -29,6 +30,7 @@ const Portfolio = () => {
         >   
             <SwiperSlide><Slide1></Slide1></SwiperSlide>
             <SwiperSlide><Slide2></Slide2></SwiperSlide>
+            <SwiperSlide><Slide3></Slide3></SwiperSlide>
             
             
             

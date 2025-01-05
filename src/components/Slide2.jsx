@@ -22,8 +22,8 @@ const Slide2 = () => {
                 <div className='border-b border-gray-600 my-5'></div>
                 <div className='flex gap-3'>
                     <a href='https://equisports-lisboa.web.app' target='_blank' rel="noopener noreferrer" className='text-xs p-2 bg-orange-500/20 rounded-md cursor-pointer hover:bg-orange-500/50'>Web</a>
-                    <a href='https://github.com/rejaulvoice18/e-tutor-client' target='_blank' rel="noopener noreferrer" className='text-xs p-2 bg-orange-500/20 rounded-md cursor-pointer hover:bg-orange-500/50'>Git Client</a>
-                    <a href='https://github.com/rejaulvoice18/e-tutor-server' target='_blank' rel="noopener noreferrer" className='text-xs p-2 bg-orange-500/20 rounded-md cursor-pointer hover:bg-orange-500/50'>Git Server</a>
+                    <a href='https://github.com/rejaulvoice18/equisports-lisboa-client' target='_blank' rel="noopener noreferrer" className='text-xs p-2 bg-orange-500/20 rounded-md cursor-pointer hover:bg-orange-500/50'>Git Client</a>
+                    <a href='https://github.com/rejaulvoice18/equisports-lisboa-server' target='_blank' rel="noopener noreferrer" className='text-xs p-2 bg-orange-500/20 rounded-md cursor-pointer hover:bg-orange-500/50'>Git Server</a>
                 </div>
             </div>
             <div>
