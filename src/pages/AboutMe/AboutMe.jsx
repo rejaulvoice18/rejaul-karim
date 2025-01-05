@@ -24,7 +24,7 @@ const AboutMe = () => {
                 <p>To bring my ideas to life, I utilize modern tools and technologies. For the 
                     front-end, I work with React.js, JavaScript, Tailwind CSS, and Daisy UI to 
                     design interactive and responsive user interfaces. On the back-end, 
-                    I rely on Express.js and MongoDB to build robust and secure systems 
+                    I rely on Express.js, Node.js and MongoDB to build robust and secure systems 
                     that handle data efficiently.</p><br/>
                 <p>I thrive on taking on new challenges, whether it involves crafting sleek designs, 
                     managing databases, or ensuring smooth functionality. I am committed to delivering 
