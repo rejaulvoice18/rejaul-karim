@@ -1,6 +1,8 @@
 import React from 'react';
+import Title from '../../components/Title';
 
 const Education = () => {
+    Title('Education')
     return (
         <div className='mt-5 md:mt-10 pb-5'>
             <h2 className='text-orange-500 my-3'>Educational Background</h2>

@@ -3,8 +3,10 @@ import { MdOutlineFileDownload } from 'react-icons/md';
 import { Link } from 'react-router-dom';
 import SocialLinks from '../../components/SocialLinks';
 import Photo from '../../components/Photo';
+import Title from '../../components/Title';
 
 const Home = () => {
+    Title('Homme')
     return (
         <div className='py-10 grid grid-cols-1 md:grid-cols-2 gap-5 mt-10'>
             <div className='flex flex-col items-center md:items-start gap-5 md:gap-7 text-center md:text-start'>

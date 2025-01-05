@@ -11,10 +11,12 @@ import 'swiper/css/pagination';
 import Slide1 from '../../components/Slide1';
 import Slide2 from '../../components/Slide2';
 import Slide3 from '../../components/Slide3';
+import Title from '../../components/Title';
 
 
 
 const Portfolio = () => {
+    Title('Portfolio')
     const pagination = {
         clickable: true,
         renderBullet: function (index, className) {

@@ -10,6 +10,7 @@ const NavBar = () => {
         <li><NavLink to="/skills" className='uppercase'>Skills</NavLink></li>
         <li><NavLink to="/portfolio" className='uppercase'>portfolio</NavLink></li>
         <li><NavLink to="/contact" className='uppercase'>contact</NavLink></li>
+        <li><NavLink to="/about" className='uppercase'>about me</NavLink></li>
     </>
     return (
         <div className="navbar bg-bodyColor border-b border-b-orange-200">

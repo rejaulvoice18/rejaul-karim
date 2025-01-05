@@ -5,9 +5,11 @@ import tail from '../../assets/logoskills/tail.png'
 import nodejs from '../../assets/logoskills/nodejs.png'
 import mongodb from '../../assets/logoskills/mongo-db.png'
 import express from '../../assets/logoskills/expressjs.png'
+import Title from '../../components/Title';
 
 
 const Skills = () => {
+    Title('Technical Skills')
     return (
         <div className='mt-5 md:mt-10 border border-orange-600/30 bg-orange-500/15 p-3 rounded-md'>
             <h2 className='text-orange-500'>Technical Skills</h2>

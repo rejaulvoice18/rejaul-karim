@@ -1,8 +1,10 @@
 import React from 'react';
 import { FaPhone } from "react-icons/fa6";
 import { MdOutlineEmail } from "react-icons/md";
+import Title from '../../components/Title';
 
 const Contact = () => {
+    Title('Contact')
     return (
         <div className='my-5 md:my-14'>
             <div>
@@ -50,7 +52,7 @@ const Contact = () => {
                                     </label>
                                 </div>
                             </div>
-                            <input type="submit" value="Send Message" className='btn btn-block bg-orange-500/20 text-white font-bold border-none' />
+                            <input type="submit" value="Send Message" className='btn btn-block bg-orange-500/20 text-white font-bold border-none hover:bg-orange-500/40' />
                         </form>
                     </div>
                 </div>
