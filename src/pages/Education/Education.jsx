@@ -32,23 +32,8 @@ const Education = () => {
                         data structures, systems design, and hardware-software integration
                     </p>
                 </div>
-                <div className='grid grid-cols-1'>
+                <div className='grid grid-cols-1 md:inline-block'>
                     <h3 className='bg-orange-500 py-2 px-3 rounded-md'>Project: Student Information System</h3>
-                </div>
-            </div>
-            <div className='border border-orange-500/20 rounded-b-md p-5 my-5'>
-                <div className=''>
-                    <div className='flex justify-between'>
-                        <h3 className='font-bold text-orange-500'>Master's in Data Science and Advanced Analytics</h3>
-                        <p className='text-gray-500'>2020 - Running</p>
-                    </div>
-                    <p className='text-gray-300 text-xs'>Leading University, sylhet, Bangladesh</p>
-                    <p className='py-5'>1st Year:
-                        Data Mining, Data Visualization, Statistics for Data Science, Programming for Data Science,
-                        Computational Intelligence for Optimization, Storing & Retrieving Data, Big Data Analytics, Big Data Modelling & Management, Deep Learning, Text Mining.
-                        Ongoing Courses:
-                        Machine Learning
-                    </p>
                 </div>
             </div>
         </div>
