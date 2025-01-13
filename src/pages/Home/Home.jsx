@@ -17,7 +17,7 @@ const Home = () => {
                 </div>
                 <p className='w-auto md:max-w-[500px] font-thin leading-6'>I use modern tools and technologies to bring my ideas to life. For the front-end, I work with React.js, JavaScript, Tailwind CSS, and Daisy UI to design interactive and responsive user interfaces. For the back-end, I rely on Express.js, Node.js and MongoDB to 
                     build robust and secure systems that handle data efficiently.</p>
-                <a download href={'/CV-Md Rejaul Karim.pdf'} className='mb-5 bg-transparent rounded-full border border-orange-500/50 
+                <a download href={'/Md Rejaul Karim-Full-Stack-Developer.pdf'} className='mb-5 bg-transparent rounded-full border border-orange-500/50 
                 flex items-center px-6 py-2.5 gap-2 text-sm text-orange-600 hover:bg-orange-500 hover:text-white hoverEffect'>
                     Download cv <MdOutlineFileDownload className='w-4 h-4' />
                 </a>

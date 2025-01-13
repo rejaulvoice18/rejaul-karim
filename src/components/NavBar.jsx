@@ -44,7 +44,7 @@ const NavBar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-            <Link to={'/CV-Md Rejaul Karim.pdf'} target='_blank' rel="noopener noreferrer" className='uppercase text-sm bg-orange-500/10 px-4 py-2 rounded-md border border-orange-500/10'>hire me</Link>
+            <Link to={'/Md Rejaul Karim-Full-Stack-Developer.pdf'} target='_blank' rel="noopener noreferrer" className='uppercase text-sm bg-orange-500/10 px-4 py-2 rounded-md border border-orange-500/10'>hire me</Link>
             </div>
         </div>
     );
