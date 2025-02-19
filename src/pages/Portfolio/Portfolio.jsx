@@ -12,6 +12,7 @@ import Slide1 from '../../components/Slide1';
 import Slide2 from '../../components/Slide2';
 import Slide3 from '../../components/Slide3';
 import Title from '../../components/Title';
+import Slide4 from '../../components/Slide4';
 
 
 
@@ -33,6 +34,7 @@ const Portfolio = () => {
             <SwiperSlide><Slide1></Slide1></SwiperSlide>
             <SwiperSlide><Slide2></Slide2></SwiperSlide>
             <SwiperSlide><Slide3></Slide3></SwiperSlide>
+            <SwiperSlide><Slide4></Slide4></SwiperSlide>
             
             
             
